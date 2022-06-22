@@ -1,0 +1,114 @@
+{
+    "LIVETV": {
+        "banner": [
+            {
+                "id": "4429",
+                "title": "Doutor Estranho no Multiverso da Loucura",
+                "sub_title": "Legendado",
+                "slide_image": "http://image.tmdb.org/t/p/w780//qfN6zIDbCGkZHR2QGAmSBEwNMcU.jpg",
+                "type": "movie"
+            },
+            {
+                "id": "4291",
+                "title": "Jurassic World: Domínio",
+                "sub_title": "Dublado",
+                "slide_image": "http://image.tmdb.org/t/p/w780//8MiUVWIx7XDeu5xl9zaTMFVtwiE.jpg",
+                "type": "movie"
+            },
+            {
+                "id": "4231",
+                "title": "Top Gun: Maverick",
+                "sub_title": "Dublado",
+                "slide_image": "http://image.tmdb.org/t/p/w780//vvfjmGd4iypwE89e3ZkhEsTNQyH.jpg",
+                "type": "movie"
+            },
+          ],
+           "cat_list": [],
+        "latest_movies": [
+            {
+                "id": "4429",
+                "language_id": "5",
+                "genre_id": "3,10,15",
+                "movie_title": "Doutor Estranho no Multiverso da Loucura",
+                "movie_desc": "453395",
+                "movie_poster": "http://image.tmdb.org/t/p/w300//fi0BbH4QEiJlbGnNFVxzFxsR2BA.jpg",
+                "movie_poster_thumb": "http://imfromgod.org//images/movies/thumbs//fi0BbH4QEiJlbGnNFVxzFxsR2BA.jpg",
+                "movie_cover": "http://image.tmdb.org/t/p/w780//qfN6zIDbCGkZHR2QGAmSBEwNMcU.jpg",
+                "movie_cover_thumb": "http://imfromgod.org//images/movies/thumbs//qfN6zIDbCGkZHR2QGAmSBEwNMcU.jpg",
+                "video_type": "server_url",
+                "movie_url": "http://authentic-video.cloud/suzan09.php?b=freak/leg/453395.mp4",
+                "total_views": "70607",
+                "total_rate": "0",
+                "rate_avg": "0",
+                "language_name": "Legendado",
+                "language_background": "#034EE9"
+            },
+            {
+                "id": "4428",
+                "language_id": "1",
+                "genre_id": "3,5",
+                "movie_title": "Para Sempre Vencedor",
+                "movie_desc": "31451",
+                "movie_poster": "http://image.tmdb.org/t/p/w300//1kweebohYl7gXnIrtRYxsehTzG3.jpg",
+                "movie_poster_thumb": "http://imfromgod.org//images/movies/thumbs//1kweebohYl7gXnIrtRYxsehTzG3.jpg",
+                "movie_cover": "http://image.tmdb.org/t/p/w780//8tKcFFUNVv9PcaQwLuT9W2OLyW.jpg",
+                "movie_cover_thumb": "http://imfromgod.org//images/movies/thumbs//8tKcFFUNVv9PcaQwLuT9W2OLyW.jpg",
+                "video_type": "server_url",
+                "movie_url": "http://authentic-video.cloud/suzan09.php?b=freak/dub/31451.mp4",
+                "total_views": "9746",
+                "total_rate": "0",
+                "rate_avg": "0",
+                "language_name": "Dublado",
+                "language_background": "#1D8449"
+            },
+            {
+                "id": "4427",
+                "language_id": "1",
+                "genre_id": "7,5,6",
+                "movie_title": "Um Casal Quase Perfeito 3",
+                "movie_desc": "15088",
+                "movie_poster": "http://image.tmdb.org/t/p/w300//dDOrR5QoO29devdsZHosRbNr4Oh.jpg",
+                "movie_poster_thumb": "http://imfromgod.org//images/movies/thumbs//dDOrR5QoO29devdsZHosRbNr4Oh.jpg",
+                "movie_cover": "http://image.tmdb.org/t/p/w780//c9pCn3izxnuRDsWAFk2DLxZ8F5N.jpg",
+                "movie_cover_thumb": "http://imfromgod.org//images/movies/thumbs//c9pCn3izxnuRDsWAFk2DLxZ8F5N.jpg",
+                "video_type": "server_url",
+                "movie_url": "http://authentic-video.cloud/suzan09.php?b=freak/dub/15088.mp4",
+                "total_views": "9923",
+                "total_rate": "0",
+                "rate_avg": "0",
+                "language_name": "Dublado",
+                "language_background": "#1D8449"
+            },
+           ],
+           "tv_series": [
+            {
+                "id": "32995",
+                "series_name": "Plus & Minus",
+                "series_desc": "Plus &Minus é uma co-produção entre Taiwan e Japão, o drama fala sobre relacionamentos quebrados, mas também conecta os espectadores a amizades leais e uma visão realista do amor.\r\nRelacionamentos são complicados. Zheng Ze Shou e Fu Li Gong são de amigos de infância, ambos são advogados que vivem juntos. O pai de Zheng insiste no casamento do filho e sempre arranja encontros para os dois. Cansados, eles resolvem fingir para as pretendentes que não são um bom partido. Em um desses encontros, um finge ser namorado do outro. Será isso é o suficiente para despertar um interesse, além de beijos fake? Yuki é um bartender de espírito livre, e Jian é dono de uma lavanderia e pai solteiro que não consegue esquecer o passado. Um dia, Jian se depara com a colorida vida noturna do barman. Os dois lentamente percebem os desejos internos um do outro.",
+                "series_poster": "http://imfromgod.org//images/series/93291_ArmBvUkxKFRmsPyrwgyCMVpA5DE.jpg",
+                "series_poster_thumb": "http://imfromgod.org//images/series/thumbs/93291_ArmBvUkxKFRmsPyrwgyCMVpA5DE.jpg",
+                "series_cover": "http://imfromgod.org//images/series/73462_caRxtcdESrKe6lfVNNEp2Tf6XpB.jpg",
+                "series_cover_thumb": "http://imfromgod.org//images/series/thumbs/73462_caRxtcdESrKe6lfVNNEp2Tf6XpB.jpg"
+            },
+            {
+                "id": "32994",
+                "series_name": "Spriggan",
+                "series_desc": "As relíquias de uma antiga civilização guardam poderes perigosos. Ainda bem que os agentes Spriggan estão prontos para evitar que elas caiam nas mãos erradas.",
+                "series_poster": "http://imfromgod.org//images/series/44966_ioUlOybNzJNMZ6euJ3yzF0bbkiZ.jpg",
+                "series_poster_thumb": "http://imfromgod.org//images/series/thumbs/44966_ioUlOybNzJNMZ6euJ3yzF0bbkiZ.jpg",
+                "series_cover": "http://imfromgod.org//images/series/50620_8v1flw4wcx1I7cIBxavaMsQqLou.jpg",
+                "series_cover_thumb": "http://imfromgod.org//images/series/thumbs/50620_8v1flw4wcx1I7cIBxavaMsQqLou.jpg"
+            },
+            {
+                "id": "32993",
+                "series_name": "Marvel 616",
+                "series_desc": "Uma série documental antológica que explora os impactos culturais, sociais, e históricos do Universo Marvel Comics e sua interseção com o mundo.",
+                "series_poster": "http://imfromgod.org//images/series/54777_v1x4hs1OTsKXEzcYawrpUzyZzgc.jpg",
+                "series_poster_thumb": "http://imfromgod.org//images/series/thumbs/54777_v1x4hs1OTsKXEzcYawrpUzyZzgc.jpg",
+                "series_cover": "http://imfromgod.org//images/series/82560_cUO1Ybx3KHVVnDVDk6jHbBww8oq.jpg",
+                "series_cover_thumb": "http://imfromgod.org//images/series/thumbs/82560_cUO1Ybx3KHVVnDVDk6jHbBww8oq.jpg"
+            },
+           ],
+           "latest_channels": []
+    }
+}
